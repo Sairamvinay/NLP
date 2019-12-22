@@ -1,0 +1,100 @@
+1:  a corner carries any corner .
+2:  every weight has this master .
+3:  this home is that castle .
+4:  no sovereign rides each husk .
+5:  that defeater covers no sun .
+6:  each coconut carries no husk .
+7:  each corner is a castle .
+8:  that king has every winter .
+9:  no pound drinks that king .
+10:  that castle drinks any coconut .
+11:  this coconut covers every corner .
+12:  every winter is any story .
+13:  this defeater carries every quest .
+14:  the swallow has every defeater .
+15:  each husk covers this master .
+16:  every fruit is each master from this husk .
+17:  that sovereign is another home .
+18:  every home has no coconut .
+19:  no coconut drinks this fruit .
+20:  no coconut drinks the pound .
+21:  any sun has that land .
+22:  this chalice rides that castle .
+23:  that castle rides Arthur .
+24:  every sovereign rides the winter .
+25:  the story has every chalice across any land .
+26:  each husk is this story .
+27:  a corner drinks any quest .
+28:  any husk rides a weight .
+29:  a sun is no horse .
+30:  no pound covers each castle .
+31:  every swallow rides a servant .
+32:  every sun carries Arthur .
+33:  each castle carries the castle .
+34:  a defeater drinks the master .
+35:  the land carries another land .
+36:  a winter drinks each quest .
+37:  Uther Pendragon has another fruit .
+38:  every castle has any pound .
+39:  any fruit rides no swallow .
+40:  a home is each quest .
+41:  another winter rides another horse .
+42:  another pound carries each land .
+43:  every sovereign has this weight over any horse .
+44:  the king has every quest .
+45:  any sovereign has every castle .
+46:  no quest covers no king .
+47:  another quest carries any weight .
+48:  that pound over a swallow rides every pound .
+49:  another winter carries the master .
+50:  any coconut drinks every king .
+51:  every sovereign covers the castle .
+52:  that master has every corner .
+53:  another chalice rides a husk .
+54:  any coconut rides Arthur .
+55:  a servant rides Guinevere .
+56:  a coconut has that horse .
+57:  no chalice covers a sun .
+58:  no king has another sovereign .
+59:  that horse drinks another winter .
+60:  no sun covers any coconut .
+61:  each defeater drinks a chalice .
+62:  a defeater has each coconut .
+63:  the chalice rides another swallow .
+64:  another horse is any fruit .
+65:  any land covers any sun .
+66:  the winter has another land .
+67:  that winter carries Uther Pendragon .
+68:  this coconut has no home .
+69:  every corner carries a winter .
+70:  any horse rides the defeater .
+71:  another king is no chalice .
+72:  each master has this chalice .
+73:  another servant drinks this husk .
+74:  a master covers that pound .
+75:  every sun is any sun above no story .
+76:  this weight carries that story .
+77:  Uther Pendragon rides the pound .
+78:  that quest covers each winter .
+79:  another swallow carries that servant .
+80:  another corner covers another weight .
+81:  Arthur rides every sovereign .
+82:  each chalice drinks Patsy .
+83:  no pound drinks no quest .
+84:  any coconut has that chalice .
+85:  no castle drinks every home .
+86:  this story carries any land .
+87:  no sovereign rides a swallow .
+88:  this coconut rides any weight .
+89:  any fruit carries every winter .
+90:  the king drinks every husk .
+91:  no defeater covers no swallow .
+92:  every husk rides this horse above each master from this defeater .
+93:  Guinevere rides no chalice .
+94:  a pound drinks a castle .
+95:  every husk carries that swallow .
+96:  any corner is no defeater .
+97:  that winter covers the land .
+98:  each king has every quest .
+99:  any castle carries the sovereign .
+100:  every weight is another coconut .

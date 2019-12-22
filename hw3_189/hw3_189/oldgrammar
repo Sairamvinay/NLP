@@ -1,0 +1,70 @@
+ROOT -> S3 1
+S3 -> NP VP END 1
+S3 -> VP +Misc 1
+S3 -> +Misc 1
+NP -> Proper 25
+NP -> Det +Noun 40
+NP -> Noun +Det 15
+NP -> Qn +Noun 12.5
+NP -> Qn 12
+NP -> Adj +Noun 40
+NP -> Noun +Prep 15
+VP -> VerbT 1
+VP -> Aux VerbT 1
+VP -> VerbT +Det 1
+VP -> VerbT +Misc 1
+VP -> VerbT +Noun 1
+VP -> VerbT +Prep 1
+VP -> VerbT +Proper 1
+VP -> Adv VerbT 1
+VP -> +Misc VerbT 1
++Det -> Det 1
++Det -> Det +Det 1
++Det -> Det +Misc 1
++Det -> Det +Noun 1
++Det -> Det +Prep 1
++Det -> Det +Proper 1
++Det -> Det VP 1
++Noun -> Noun 1
++Noun -> Noun +Det 1
++Noun -> Noun +Misc 1
++Noun -> Noun +Noun 1
++Noun -> Noun +Prep 1
++Noun -> Noun +Proper 1
++Noun -> Noun VerbT 5
++Noun -> Noun CC 1
++Noun -> Poss Noun 1
++Noun -> Noun Adj 1
++Noun -> NNP Adj 1
++Noun -> NNP VerbT 2
++Noun -> Pers VerbT 3
++Noun -> NNP 1
++Noun -> Aux +Noun 2
++Noun -> Aux +Proper 2
++Prep -> Prep 1
++Prep -> Prep +Det 1
++Prep -> Prep +Misc 1
++Prep -> Prep +Noun 1
++Prep -> Prep +Prep 1
++Prep -> Prep +Proper 1
++Prep -> Prep +VerbT 1
++Proper -> Proper 1
++Proper -> Proper +Det 1
++Proper -> Proper +Misc 1
++Proper -> Proper +Noun 1
++Proper -> Proper +Prep 1
++Proper -> Proper +Proper 1
++Proper -> Proper VP 1
++Misc -> END 20
++Misc -> Num 2
++Misc -> Dem 20
++Misc -> CC 15
++Misc -> Misc 15
++Misc -> Misc +Det 15
++Misc -> Misc +Misc 25
++Misc -> Misc +Noun 15
++Misc -> Misc +Prep 15
++Misc -> Misc +Proper 15
++Misc -> Misc VP 10
++Misc -> Aux Misc 5
++Misc -> Qn Aux +Misc 15
